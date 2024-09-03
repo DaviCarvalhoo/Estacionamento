@@ -1,0 +1,15 @@
+C:\Users\Davi\git_projects\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\Davi\git_projects\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\Davi\git_projects\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\Davi\git_projects\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\Davi\git_projects\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.sourcelink.json
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\Davi\git_projects\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
